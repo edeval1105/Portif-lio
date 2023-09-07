@@ -715,3 +715,9 @@ color: var(--color-white);
     left: 100%;
   }
 }
+
+
+@media(max-width: 800px){
+  .body {
+    min-width: 100%;
+  }
