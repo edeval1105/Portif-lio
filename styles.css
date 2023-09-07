@@ -717,7 +717,7 @@ color: var(--color-white);
 }
 
 
-@media(max-width: 800px){
+@media(max-width: 450px){
   .body {
     min-width: 100%;
   }
